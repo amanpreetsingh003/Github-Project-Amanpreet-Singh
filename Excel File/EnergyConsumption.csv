@@ -1,0 +1,11 @@
+ProcessName,Timestamp,EnergyType,EnergyValue,EquipmentName,Location,Cost,Temperature,Humidity,Comments
+Manufacturing A,2024-03-26 8:00,Electricity,120.5,Machine 1,Factory Floor 1,150,25.5,40.5,Energy consumption increased by 10% today.
+Manufacturing B,2024-03-27 8:00,Natural Gas,85.75,Machine 2,Warehouse Area,85.5,23.8,42.8,Equipment underwent maintenance last week.
+Manufacturing A,2024-03-28 8:00,Electricity,200.2,Conveyor A,Production Line,200.25,27.2,38.2,Low energy consumption observed overnight.
+Manufacturing C,2024-03-29 8:00,Solar Energy,150,Boiler 1,Boiler Room,300.75,22.6,45.6,Unusual spike in energy usage this morning.
+Manufacturing B,2024-03-30 8:00,Electricity,110.8,Pump Station,Office Building,110.2,24.9,41.9,Energy-saving measures implemented.
+Manufacturing A,2024-03-31 8:00,Diesel Fuel,75.6,Reactor 2,Storage Facility,75.8,26.3,39.3,New equipment installed in production area.
+Manufacturing C,2024-04-01 8:00,Electricity,180.9,Generator 3,Workshop,180.5,21.7,44.7,Energy consumption data validated.
+Manufacturing B,2024-04-02 8:00,Wind Energy,95.25,Furnace B,Control Room,95.6,28.1,37.1,Energy audit scheduled for next month.
+Manufacturing A,2024-04-03 8:00,Electricity,130.4,Mixer 4,Loading Dock,130.9,25.8,40.8,Energy efficiency improvements planned.
+Manufacturing C,2024-04-04 8:00,Biomass,160.75,Compressor,Research Lab,160.25,22,43,Energy consumption monitoring ongoing.
